@@ -1,3 +1,13 @@
+The React Counter App is a basic demonstration of state management in React.js. It utilizes React's component state to keep track of the counter value and provides functions to increment, decrement, and reset the counter.
+
+**Features**
+
+1.Increment Counter: Increase the counter value by one.
+
+2.Decrement Counter: Decrease the counter value by one.
+
+3.Reset Counter: Reset the counter value to zero.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
