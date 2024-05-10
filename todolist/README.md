@@ -1,3 +1,17 @@
+This To-Do List application is built using React.js, a JavaScript library for building user interfaces, and leverages React hooks for state management and component lifecycle management.
+
+**Features**
+
+1.Add Task: Add new tasks to your to-do list.
+
+2.Remove Task: Remove tasks from the list when they are completed or no longer needed.
+
+3.Mark Task as Completed: Mark tasks as completed to keep track of your progress.
+
+4.Filter Tasks: Filter tasks based on their completion status (completed or pending).
+
+5.Responsive Design: The application is designed to be responsive, allowing seamless usage across different devices.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
