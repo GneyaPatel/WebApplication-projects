@@ -1,3 +1,15 @@
+Venue Restaurant is a virtual platform designed to showcase our restaurant's atmosphere, cuisine, and services. Users can explore our menu, view images of the restaurant, make reservations, and get in touch with us through the contact page.
+
+**Features**
+
+1.Menu: Browse our extensive menu offerings, including appetizers, entrees, desserts, and beverages.
+
+2.Blog: View high-quality images of our restaurant's interior, exterior, and signature dishes.
+
+3.Reservations: Book a table for your desired date and time, specifying the number of guests and any special requests.
+
+4.Contact: Get in touch with us easily through the contact form, where you can leave feedback, ask questions, or make inquiries.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
